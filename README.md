@@ -1,7 +1,7 @@
 ## Sobre o Projeto  
 Este projeto é parte da entrega final desenvolvida no Summer Job da EMS Farmacêutica, explorando a **Clusterização** de clientes para um produto específico.
 
-## 📂 Estrutura do Repositório  
+## Estrutura do Repositório  
 ├── query_cluster.sql # Query **análoga** a utilizada 
 ├── cluster_clientes.py # Clusterização e análises em Python
 ├── README.md # Documentação
